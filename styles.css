@@ -1,8 +1,16 @@
 body{
-    background-color:pink;
+    background-color:rgb(255, 221, 227);
     font-family: 'Courier New', Courier, monospace;
 }
 
 #section{
-    background-color: palegoldenrod;
+    border: 5px dotted black;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+h1{
+    font-weight: bolder;
 }
